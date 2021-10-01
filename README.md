@@ -1,6 +1,6 @@
 ![](koushik-linkedin-banner.jpg)
 
-- 👋 Hi, I’m @koushikvikram
+- 👋 Hi, I’m Koushik Vikram!
 - 👀 I’m interested in Machine Learning and Deep Learning.
 - 🌱 I’m currently learning how to productionize Machine Learning and Deep Learning models.
 - 💞️ I’m looking to collaborate on developing tools for Machine Learning deployment.
