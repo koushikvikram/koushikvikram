@@ -1,4 +1,4 @@
-![](koushik-linkedin-banner.jpg)
+![](github-banner.jpg)
 
 - 👋 Hi, I’m Koushik Vikram!
 - 👀 I’m interested in Machine Learning and Deep Learning.
