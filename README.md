@@ -1,4 +1,10 @@
-![](koushik-linkedin-banner.jpg)
+<div class="row">
+  <div class="column">
+    <img src="dashboard-gif.gif" alt="Real-Time Anomaly Detection Platform" style="width:33%">
+    <img src="app-demo.gif" alt="Multimodal Image Retrieval" style="width:33%">
+    <img src="social-preview.png" alt="Speech Recognition" style="width:33%">
+  </div>
+</div>
 
 👋 Hi, I’m Koushik Vikram! I'm a Machine Learning Engineer, learning to productionize Machine Learning and Deep Learning models 🤖. I'm interested in MLOps and Multimodal Machine Learning Applications!
 
