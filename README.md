@@ -1,8 +1,7 @@
 <div class="row">
   <div class="column">
-    <img src="dashboard-gif.gif" alt="Real-Time Anomaly Detection Platform" style="width:33%">
-    <img src="app-demo.gif" alt="Multimodal Image Retrieval" style="width:33%">
-    <img src="social-preview.png" alt="Speech Recognition" style="width:33%">
+    <img src="app-demo.gif" alt="Multimodal Image Retrieval" style="width:49%">
+    <img src="dashboard-gif.gif" alt="Real-Time Anomaly Detection Platform" style="width:49%">
   </div>
 </div>
 
