@@ -1,4 +1,4 @@
-Software Engineer - MLOps, Data Engineering
+Senior MLOps Engineer
 
 <!-- ![](github-banner.jpg) -->
 
